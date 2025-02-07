@@ -1,8 +1,6 @@
 # PathFinding-Algorithm-Path-visualizer
 # Hello there!
-Welcome to my path-finding visualizer! Obiviously it's inspired from the Clement's original path-finding visualizer.
-For those who're new to this project, it's visualization tool to visualize classic graph algorithms like Dijsktra, A* and etc. I was fascinated to build my own visualization tool after going through Professor Robert Sedgewick Algorithms course from Princeton University in coursera. 
-I have been working so hard for this project for the last few months, so take you're time to explore the repo .(I came across this feature recently - "1s" project which opens a github repo as it would have in VS Code - by just typing 1s next to the github in the url (https://github1s.com/repo), so you could try it out for better understanding of the structuring of this project)
+This Pathfinding Algorithm Visualizer is a dynamic web application that provides an interactive way to explore and compare pathfinding algorithms such as BFS, DFS, and Dijkstra's Algorithm. Users can visualize how different algorithms traverse a grid, analyze key metrics like path length and nodes explored, and generate random mazes for testing. The application runs multiple algorithms simultaneously, offering a side-by-side comparison of their efficiency. Built using HTML, CSS, JavaScript, React, and Firebase, it delivers a hands-on educational experience for understanding pathfinding in real-time.
 
 ## Here is the preview images for my project
 ### Before visualization:
